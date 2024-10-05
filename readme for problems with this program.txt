@@ -1,0 +1,1 @@
+its crappy , dont use it as your default antivirus

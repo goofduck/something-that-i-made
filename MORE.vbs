@@ -1,0 +1,1 @@
+x=MsgBox("if you are confused about this anti virus its simpely a batch file or known as a .bat converted to an executable or .exe  its simpely created by notepad ++ ",0+64,"pr setup")

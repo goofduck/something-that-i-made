@@ -1,0 +1,1 @@
+x=MsgBox("you will exit",0+64,"pr setup scriptblocker")
